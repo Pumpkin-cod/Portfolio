@@ -11,7 +11,7 @@ const Projects = () => {
   const projects = [
     { id: 1, image: '/src/assets/tdxapp.png', title: 'TDX APP', description: 'A Commodity Trading Platform designed to revolutionize how sellers and buyers interact in the marketplace. It serves as a digital marketplace where commodities are listed for sale.', link: 'https://tdxapp.ai/' },
     { id: 2, image: '/src/assets/stickynotes.png', title: 'STICKY NOTES APP', description: 'A sticky notes app that helps you capture, organize, and prioritize your thoughts, tasks, and ideas with ease and efficiency.', link: 'https://sticky-notes-seven-rosy.vercel.app/' },
-    { id: 3, image: '/src/assets/easybank.png', title: 'EASY BANKING LANDING PAGE', description: 'The Easy Banking App simplifies your banking tasks with balance checks, transfers, investment management, and more, all securely accessible from your laptop smartphone or tablet. ', link: 'https://easybank-landing-page-master-kappa.vercel.app/' },
+    { id: 3, image: '../assets/easybank.png', title: 'EASY BANKING LANDING PAGE', description: 'The Easy Banking App simplifies your banking tasks with balance checks, transfers, investment management, and more, all securely accessible from your laptop smartphone or tablet. ', link: 'https://easybank-landing-page-master-kappa.vercel.app/' },
   ];
 
 
